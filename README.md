@@ -46,7 +46,7 @@ The objective of this step is to develop an object detection system to identify 
 
 1. Clone the repository or download the project files.
 2. Install the required dependencies.
-3. Open the `model.ipynb` file in Jupyter Notebook.
+3. Open the `project.ipynb` file in Jupyter Notebook.
 4. Run the code cells to execute the object detection pipeline for Step A and Step B.
 5. The results, including the detected product instances and their positions, will be displayed in the notebook.
 
