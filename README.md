@@ -1,4 +1,4 @@
-# Image Processing and Computer Vision Project
+# Object Recognition on Store Shelves Project: 
 
 This project focuses on developing object detection systems to identify single and multiple instances of products in given scene images. 
 
